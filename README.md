@@ -8,4 +8,4 @@
 - 👯 I’m looking to collaborate on anything involving **Python, JavaScript and other tech**
 - 🤔 I’m looking for help with **Math**
 - 📫 How to reach me: [Mail](achavan1211@gmail.com) [Twitter](https://twitter.com/CruiseDevice)
-- ⚡ Fun fact: I sleep a lot. I hate working out, but I want to be fit.
+- ⚡ Fun fact: -_-
