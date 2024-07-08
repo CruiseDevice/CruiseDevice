@@ -40,9 +40,11 @@ I am a passionate software professional with 6 years of experience in software d
 
 ## Experience
 
-### Research Associate & Assistant
+### Senior Software Engineer
 - **FOSSEE IIT Bombay**
+### Software Engineer
 - **IEOR IIT Bombay**
+### Software Engineer
 - **Virtual Labs IIT Bombay**
 
 ### Projects
