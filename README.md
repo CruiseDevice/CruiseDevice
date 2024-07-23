@@ -5,15 +5,13 @@
 
 ## About Me
 
-I am a passionate software professional with 6 years of experience in software design, development, and testing. I hold a Master of Science in Computer Science from California State University, Los Angeles, and a Bachelor of Engineering in Computer Science and Engineering from Deogiri Institute of Engineering and Management Studies, Aurangabad.
-
+I am a passionate software professional with 8+ years of experience in software design, development, and testing.
 - 🔭 I’m currently seeking a full-time opportunity in 2024.
 - 🌱 I’m currently learning advanced backend technologies and cloud computing.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about anything related to full-stack development, especially backend development.
 - 📫 How to reach me: [iakashchavan@gmail.com](mailto:iakashchavan@gmail.com)
-- 📍 I’m based in San Francisco, CA, and open to relocation.
-
+- 
 ## Skills
 
 ### Languages
@@ -40,12 +38,16 @@ I am a passionate software professional with 6 years of experience in software d
 
 ## Experience
 
-### Senior Software Engineer
-- **FOSSEE IIT Bombay**
-### Software Engineer
-- **IEOR IIT Bombay**
-### Software Engineer
-- **Virtual Labs IIT Bombay**
+### Senior Full Stack Developer
+- **Conduent**
+### Full Stack Developer
+- **CVS Health**
+### Full Stack Developer
+- **Global Logic**
+### Software Developer
+- **Excers Inc**
+### .NET Developer
+- **LTIMindtree**
 
 ### Projects
 - **Image Captioning Model**: Developed a deep learning model to generate captions for images.
