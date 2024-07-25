@@ -36,19 +36,6 @@ I am a passionate software professional with 8+ years of experience in software 
 ### Cloud Platforms
 - AWS
 
-## Experience
-
-### Senior Full Stack Developer
-- **Conduent**
-### Full Stack Developer
-- **CVS Health**
-### Full Stack Developer
-- **Global Logic**
-### Software Developer
-- **Excers Inc**
-### .NET Developer
-- **LTIMindtree**
-
 ### Projects
 - **Image Captioning Model**: Developed a deep learning model to generate captions for images.
 - **Tourism Package Prediction Model**: Built a machine learning model to predict suitable tourism packages.
