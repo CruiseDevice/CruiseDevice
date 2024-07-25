@@ -50,7 +50,7 @@ I am a passionate software professional with 8+ years of experience in software 
 
 - 📧 Email: [iakashchavan@gmail.com](mailto:iakashchavan@gmail.com)
 - 📱 Phone: (747)-244-1272
-- 💼 LinkedIn: [linkedin.com/in/iakashchavan](https://www.linkedin.com/in/iakashchavan/)
+- 💼 LinkedIn: [linkedin.com/in/iakashchavan](https://www.linkedin.com/in/akash-chavan-82653131b/)
 - 🌐 GitHub: [github.com/CruiseDevice](https://github.com/CruiseDevice)
 
 Feel free to reach out to me for collaboration, discussion, or just a friendly chat!
