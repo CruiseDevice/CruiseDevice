@@ -1,8 +1,5 @@
 # Hi there, I'm Akash Chavan 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/CruiseDevice?label=Follow&style=social)](https://github.com/CruiseDevice)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/iakashchavan/)
-
 ## About Me
 
 I am a passionate software professional with 8+ years of experience in software design, development, and testing.
