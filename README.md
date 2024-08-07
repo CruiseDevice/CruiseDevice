@@ -1,8 +1,6 @@
 # Hi there, I'm Akash Chavan 👋
 
 ## About Me
-
-I am a passionate software professional with 8+ years of experience in software design, development, and testing.
 - 🔭 I’m currently seeking a full-time opportunity in 2024.
 - 🌱 I’m currently learning advanced backend technologies and cloud computing.
 - 👯 I’m looking to collaborate on open-source projects.
