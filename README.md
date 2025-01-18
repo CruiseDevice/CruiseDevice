@@ -1,37 +1,9 @@
 # Hi there, I'm Akash Chavan 👋
 
 ## About Me
-- 🧠 Deep learning enthusiast and neural network aficionado
-- 🔭 Currently seeking a full-time opportunity in 2024
+- 🔭 Currently seeking a full-time opportunity in 2025
 - 🌱 Exploring advanced AI techniques and cloud computing
-- 👯 Looking to collaborate on innovative AI projects
-- 💬 Ask me about deep learning, neural networks, and full-stack development
-- 📫 Reach me at: iakashchavan@gmail.com  
-
-## Skills
-
-### AI & Machine Learning
-- Deep Learning
-- Neural Networks
-- Computer Vision
-- Natural Language Processing
-
-### Programming Languages
-- Python
-- JavaScript
-- TypeScript
-
-### Frameworks & Libraries
-- PyTorch
-- TensorFlow
-- Keras
-- Django
-- Flask
-- Node.js
-- React
-
-### Cloud Platforms
-- AWS
+- 👯 Looking to collaborate on innovative projects
 
 ## Get in Touch
 
